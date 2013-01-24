@@ -42,7 +42,9 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.</Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
-	<Item Name="Client" Type="Folder"/>
+	<Item Name="Client" Type="Folder">
+		<Item Name="DIMDemoClient.lvclass" Type="LVClass" URL="../DIMDemoClient/DIMDemoClient.lvclass"/>
+	</Item>
 	<Item Name="Server" Type="Folder"/>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>
