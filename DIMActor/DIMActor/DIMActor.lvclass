@@ -123,17 +123,26 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.</Property>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Probe RawData.vi" Type="VI" URL="../Probe RawData.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!61!%!$UZV&lt;76S;7-A1W^O&gt;(*P&lt;!!71%!!!@````]!"AB398=A2'&amp;U91!!.%"Q!"Y!!#%/2%F.17.U&lt;X)O&lt;(:M;7)12%F.17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)2%F.17.U&lt;X)!!$!!]!!'!!-!"!!%!!5!"Q!)!Q!!5!!!$1-!!!!!!!!!!!!!#A!!!1I!!!!)!!!!!!%!#1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$O!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!61!%!$UZV&lt;76S;7-A1W^O&gt;(*P&lt;!!71%!!!@````]!"AB398=A2'&amp;U91!!.%"Q!"Y!!#%/2%F.17.U&lt;X)O&lt;(:M;7)12%F.17.U&lt;X)O&lt;(:D&lt;'&amp;T=Q!)2%F.17.U&lt;X)!!$!!]!!'!!-!"!!%!!5!"Q!)!Q!!5!!!$1-!!!!!!!!!!!!!#A!!!1I!!!!+!!!!!!%!#1!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107825168</Property>
 		</Item>
 	</Item>
 	<Item Name="protected" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+		<Item Name="CastByteArrayAndDispatchMsg.vi" Type="VI" URL="../CastByteArrayAndDispatchMsg.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;D!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!B$E2*45&amp;D&gt;'^S,GRW&lt;'FC%%2*45&amp;D&gt;'^S,GRW9WRB=X-!$%2*45&amp;D&gt;'^S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!61!%!$UZV&lt;76S;7-A1W^O&gt;(*P&lt;!!31%!!!@````]!"Q2%982B!!!21!-!#G.B&lt;'R#97.L351!!$:!=!!?!!!B$E2*45&amp;D&gt;'^S,GRW&lt;'FC%%2*45&amp;D&gt;'^S,GRW9WRB=X-!#U2*45&amp;D&gt;'^S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!A!#1!+!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!##!!!!!A!!!#1!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		</Item>
 	</Item>
 	<Item Name="Actor Core.vi" Type="VI" URL="../Actor Core.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%B!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!F&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!F"9X2P=C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!$:!=!!?!!!B$E2*45&amp;D&gt;'^S,GRW&lt;'FC%%2*45&amp;D&gt;'^S,GRW9WRB=X-!#U2*45&amp;D&gt;'^S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!#1!!!!!!%!#!!!!!!</Property>

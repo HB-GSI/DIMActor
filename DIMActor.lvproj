@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="12008004">
+	<Property Name="CCSymbols" Type="Str">ProbeDimData,False;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">Project used to develop and maintain an actor anchestor class providing a DIM interface.
 
@@ -24,7 +25,6 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DimIndicators.lvlib" Type="Library" URL="../../../../SVN/LV2009/GPL/lib.lib/DimLVEvent/DimIndicators/DimIndicators.lvlib"/>
 		<Item Name="LVDimInterface.lvlib" Type="Library" URL="../../../../SVN/LV2009/GPL/lib.lib/DimLVEvent/LVDimInterface/LVDimInterface.lvlib"/>
-		<Item Name="Update DemoService Msg.lvclass" Type="LVClass" URL="../Demo/DIMDemoServer Messages/Update DemoService Msg/Update DemoService Msg.lvclass"/>
 		<Item Name="DimActorDemo.lvlib" Type="Library" URL="../Demo/DimActorDemo.lvlib"/>
 		<Item Name="DIMActor.lvlib" Type="Library" URL="../DIMActor/DIMActor.lvlib"/>
 		<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../EUPL v.1.1 - Lizenz.pdf"/>
