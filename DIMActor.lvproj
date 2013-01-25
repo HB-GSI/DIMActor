@@ -4,6 +4,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">Project used to develop and maintain an actor anchestor class providing a DIM interface.
 
+It is using the LabVIEW-DIM Interface, http://wiki.gsi.de/cgi-bin/view/CSframework/LVDimInterface. For more information about DIM see http://dim.web.cern.ch/dim.
+
 Copyright 2013 H.Brand@gsi.de
 
 GSI Helmholtzzentrum für Schwerionenforschung GmbH
@@ -29,6 +31,7 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.
 		<Item Name="DIMActor.lvlib" Type="Library" URL="../DIMActor/DIMActor.lvlib"/>
 		<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../EUPL v.1.1 - Lizenz.pdf"/>
 		<Item Name="EUPL v.1.1 - Lizenz.rtf" Type="Document" URL="../EUPL v.1.1 - Lizenz.rtf"/>
+		<Item Name="README.txt" Type="Document" URL="../README.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
