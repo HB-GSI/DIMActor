@@ -44,7 +44,10 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Client" Type="Folder">
 		<Item Name="DIMDemoClient.lvclass" Type="LVClass" URL="../DIMDemoClient/DIMDemoClient.lvclass"/>
+		<Item Name="Update DemoService Msg.lvclass" Type="LVClass" URL="../DIMDemoClient Messages/Update DemoService Msg/Update DemoService Msg.lvclass"/>
 	</Item>
-	<Item Name="Server" Type="Folder"/>
+	<Item Name="Server" Type="Folder">
+		<Item Name="DIMDemoServer.lvclass" Type="LVClass" URL="../DIMDemoServer/DIMDemoServer.lvclass"/>
+	</Item>
 	<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 </Library>

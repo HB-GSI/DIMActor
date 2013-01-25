@@ -24,6 +24,7 @@ Lizenziert unter EUPL V. 1.1; compatible with GPL v3.
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DimIndicators.lvlib" Type="Library" URL="../../../../SVN/LV2009/GPL/lib.lib/DimLVEvent/DimIndicators/DimIndicators.lvlib"/>
 		<Item Name="LVDimInterface.lvlib" Type="Library" URL="../../../../SVN/LV2009/GPL/lib.lib/DimLVEvent/LVDimInterface/LVDimInterface.lvlib"/>
+		<Item Name="Update DemoService Msg.lvclass" Type="LVClass" URL="../Demo/DIMDemoServer Messages/Update DemoService Msg/Update DemoService Msg.lvclass"/>
 		<Item Name="DimActorDemo.lvlib" Type="Library" URL="../Demo/DimActorDemo.lvlib"/>
 		<Item Name="DIMActor.lvlib" Type="Library" URL="../DIMActor/DIMActor.lvlib"/>
 		<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../EUPL v.1.1 - Lizenz.pdf"/>
